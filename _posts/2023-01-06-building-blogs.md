@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  a post with formatting and links
-date:  2023-01-06 16:13:16
+title: Building this blog
+date: 2023-01-06 16:13:16
 description: building this blog
 tags: web
 categories: uncategorized
